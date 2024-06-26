@@ -11,19 +11,6 @@
 - Rodrigo Nascimento Pereira (rodrigonpgmae@gmail.com)
 
 Quaisquer dúvidas entre em contato com Rodrigo, pelo email acima
-# Trabalho Inteligência Artificial
-#### -> Classificação do conjunto de dados pela Árvore de Decisão e Naive Bayes
-
-
-### Integrantes:
-
-- Gabriel Paiva de Oliveira
-- Larissa Maria Carvalho
-- Maria Clara Martins Santana
-- Rafael Hadzic Rico de Sousa
-- Rodrigo Nascimento Pereira (rodrigonpgmae@gmail.com)
-
-Quaisquer dúvidas entre em contato com Rodrigo, pelo email acima
 
 ### Descrição do Projeto:
 
